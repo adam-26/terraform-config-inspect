@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hashicorp/terraform-config-inspect/tfconfig"
+	"github.com/adam-26/terraform-config-inspect/tfconfig"
 	flag "github.com/spf13/pflag"
 )
 
